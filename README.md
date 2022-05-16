@@ -1,2 +1,1 @@
-# imageClassificationWeb
-Heroku source codes
+# AI-Team-2-latest
